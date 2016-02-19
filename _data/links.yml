@@ -1,0 +1,50 @@
+#
+# Factorize most used links.
+#
+# Put
+#   {% assign links = site.data.links %}
+# after the Front Matter to reduce the variable size.
+#
+
+
+organization: 'https://github.com/OfflineIMAP'
+
+imapfw:
+  project: 'https://github.com/OfflineIMAP/imapfw'
+  repository: 'https://github.com/OfflineIMAP/imapfw.git'
+  downloads: 'https://github.com/OfflineIMAP/imapfw/tags'
+  issues: 'https://github.com/OfflineIMAP/imapfw/issues'
+  rss:
+    commits: 'https://github.com/OfflineIMAP/imapfw/commits/next.atom'
+  blobs:
+    contributing: 'https://github.com/OfflineIMAP/imapfw/blob/next/CONTRIBUTING.rst'
+
+offlineimap:
+  organization: 'https://github.com/OfflineIMAP'
+  project: 'https://github.com/OfflineIMAP/offlineimap'
+  repository: 'https://github.com/OfflineIMAP/offlineimap.git'
+
+mailing_list:
+  archives: 'http://dir.gmane.org/gmane.mail.imap.offlineimap.general'
+  address: mailto:offlineimap-project@lists.alioth.debian.org
+  subscribe: 'http://lists.alioth.debian.org/mailman/listinfo/offlineimap-project'
+
+website:
+  project: 'https://github.com/OfflineIMAP/imapfw.github.io'
+  download:
+    master_zip: 'https://github.com/OfflineIMAP/imapfw.github.io/archive/master.zip'
+  repo:
+    http: 'https://github.com/OfflineIMAP/imapfw.github.io.git'
+
+logos:
+  scalable: 'assets/logo/offlineimap-scalable.svg'
+
+#others:
+  #jekyll:
+    #home: 'http://jekyllrb.com'
+    #project: 'https://github.com/jekyll/jekyll'
+    #help: 'https://github.com/jekyll/jekyll-help'
+  #pygments:
+    #quickstart: 'http://pygments.org/docs/quickstart'
+  #kramdown:
+    #syntax: 'http://kramdown.gettalong.org/syntax.html'
