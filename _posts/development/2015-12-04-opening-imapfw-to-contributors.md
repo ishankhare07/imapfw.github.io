@@ -4,7 +4,7 @@ title: imapfw is now open to contributions
 date: 2015-12-04
 updated: 2015-12-04
 author: Nicolas Sebrecht
-categories: releases
+categories: development
 ---
 {% assign icons = site.data.icons %}
 
