@@ -6,7 +6,7 @@ layout: frontpage
 
 ## imapfw, the next generation IMAP/mail framework
 
-<img src="/images/logo/offlineimap-organization-scalable.png" style="float: left; margin-right: 20px;" width="45" />
+<a href="{{ site.data.links.organization }}"><img src="/images/logo/offlineimap-organization-scalable.png" style="float: left; margin-right: 20px;" width="45" /></a>
 
 
 [OfflineIMAP organization]({{ site.data.links.offlineimap.organization }}) is born years ago to support the development of the OfflineIMAP software.
@@ -16,6 +16,30 @@ Since August 2015, the **[imapfw project](https://github.com/OfflineIMAP/imapfw)
 
 {:style="color: DarkRed;"}
 Get started:
+
+{:style="float: left; margin-right: 20px;"}
+<a class="github-button" href="https://github.com/OfflineIMAP/imapfw"
+data-icon="octicon-eye" data-style="mega"
+data-count-href="/OfflineIMAP/imapfw/watchers"
+data-count-api="/repos/OfflineIMAP/imapfw#subscribers_count"
+data-count-aria-label="# watchers on GitHub" aria-label="Watch
+OfflineIMAP/imapfw on GitHub">Watch</a>
+
+{:style="float: left; margin-right: 20px;"}
+<a class="github-button" href="https://github.com/OfflineIMAP/imapfw"
+data-icon="octicon-star" data-style="mega"
+data-count-href="/OfflineIMAP/imapfw/stargazers"
+data-count-api="/repos/OfflineIMAP/imapfw#stargazers_count"
+data-count-aria-label="# stargazers on GitHub" aria-label="Star
+OfflineIMAP/imapfw on GitHub">Star</a>
+
+<a class="github-button" href="https://github.com/OfflineIMAP/imapfw/fork"
+data-icon="octicon-repo-forked" data-style="mega"
+data-count-href="/OfflineIMAP/imapfw/network"
+data-count-api="/repos/OfflineIMAP/imapfw#forks_count" data-count-aria-label="#
+forks on GitHub" aria-label="Fork OfflineIMAP/imapfw on GitHub">Fork</a>
+
+<script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
 
 {% highlight bash %}
 $ git clone https://github.com/OfflineIMAP/imapfw.git
