@@ -14,6 +14,8 @@ imapfw:
   repository: 'https://github.com/OfflineIMAP/imapfw.git'
   downloads: 'https://github.com/OfflineIMAP/imapfw/tags'
   issues: 'https://github.com/OfflineIMAP/imapfw/issues'
+  sources:
+    master: 'https://github.com/OfflineIMAP/imapfw/blob/master'
   rss:
     commits: 'https://github.com/OfflineIMAP/imapfw/commits/next.atom'
   blobs:
