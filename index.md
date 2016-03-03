@@ -33,6 +33,7 @@ data-count-api="/repos/OfflineIMAP/imapfw#stargazers_count"
 data-count-aria-label="# stargazers on GitHub" aria-label="Star
 OfflineIMAP/imapfw on GitHub">Star</a>
 
+{:style="float: left; margin-right: 20px;"}
 <a class="github-button" href="https://github.com/OfflineIMAP/imapfw/fork"
 data-icon="octicon-repo-forked" data-style="mega"
 data-count-href="/OfflineIMAP/imapfw/network"
@@ -44,6 +45,8 @@ forks on GitHub" aria-label="Fork OfflineIMAP/imapfw on GitHub">Fork</a>
 {% highlight bash %}
 $ git clone https://github.com/OfflineIMAP/imapfw.git
 {% endhighlight %}
+
+[![Gitter](https://badges.gitter.im/OfflineIMAP/imapfw.svg)](https://gitter.im/OfflineIMAP/imapfw?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 <!--
    -<iframe frameborder="0" width="320" height="180" src="//www.dailymotion.com/embed/video/x3gpqqs" allowfullscreen></iframe><br /><a href="http://www.dailymotion.com/video/x3gpqqs_introduce-imapfw-syncaccounts_tech" target="_blank">introduce imapfw syncAccounts</a> <i>by <a href="http://www.dailymotion.com/offlineimap-project" target="_blank">offlineimap-project</a></i>
