@@ -18,9 +18,9 @@ description: > # this means it ignores newlines until next key
 permalink: /:year/:month/:day/:title/
 
 # this is the url root of the view source link on the footer page.
-viewsourceroot: https://github.com/OfflineIMAP/imapfw.github.io/blob/master/
+viewsourceroot: https://github.com/OfflineIMAP/imapfw.github.io/blob/gh-pages/
 # this is the url root of the create page link on the footer page.
-newsourceroot: https://github.com/OfflineIMAP/imapfw.github.io/new/master
+newsourceroot: https://github.com/OfflineIMAP/imapfw.github.io/new/gh-pages
 
 #
 # Build settings
