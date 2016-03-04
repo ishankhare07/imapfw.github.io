@@ -14,7 +14,7 @@ imapfw:
   repository: 'https://github.com/OfflineIMAP/imapfw.git'
   downloads: 'https://github.com/OfflineIMAP/imapfw/tags'
   issues: 'https://github.com/OfflineIMAP/imapfw/issues'
-  doc: 'imapfwdoc.offlineimap.org'
+  doc: 'http://imapfwdoc.offlineimap.org'
   sources:
     master: 'https://github.com/OfflineIMAP/imapfw/blob/master'
   rss:
