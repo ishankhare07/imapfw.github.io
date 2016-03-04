@@ -36,7 +36,7 @@ know what you want. My mandatory criteria for this project are:
 
 # Travis CI
 
-[Travis CI](https://travis-ci.org) was the first I enabled. Their intend to keep
+[Travis CI](https://travis-ci.org) was the first I enabled. Their intent to keep
 working with open source communities looks **real and effective**.
 
 Development is using continous integration for both our `master` and `next`
@@ -90,7 +90,7 @@ Thank you Gitter! Keep up the good work!
 
 I remember back in the old days when enabling all those kind of features was
 hard if not simply impossible for small projects like imapfw...  Projects had
-websites with ugly colors and fonts, sending simple changes used to request lot
+websites with ugly colors and fonts, sending simple changes used to require lot
 of work and strong implication into the project, advanced features like
 continous intergration required spending your own money into infrastructures,
 etc.
