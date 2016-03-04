@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Leveraging third services
+title: Leveraging third services in open source
 date: 2016-03-04
 author: Nicolas Sebrecht
 categories: website project
 ---
 
-Github ecosystem is growing. I decided it was time to make use of two promising
-services from the integrated tools.
+Github ecosystem is growing. I decided it was time to make use of two more
+promising services from the integrated tools.
 
 <!-- more -->
 
