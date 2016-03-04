@@ -25,8 +25,8 @@ making their way in this economy while still featuring FOSS**.
 Leveraging them is a good thing for most open source projects. Even fresh
 starting projects like imapfw can seriously benefit from the tools they provide.
 
-Here are those I enabled. Select the best tools is not hard as long as you know
-what you want. My mandatory criteria for this project are:
+Here are those I enabled. Selecting the best tools is not hard as long as you
+know what you want. My mandatory criteria for this project are:
 
 * clear limitations regarding the free services they provide;
 * as much as open source code as possible;
