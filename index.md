@@ -15,7 +15,7 @@ layout: frontpage
 Since August 2015, the **[imapfw project](https://github.com/OfflineIMAP/imapfw)** was started to become the ***next generation tool*** with *[a new approach]({{ site.base }}/2015/10/08/imapfw-is-made-public)* and *[extended features](https://gist.github.com/nicolas33/003f1b7184c7dfb26192)*.
 
 {:style="color: DarkRed;"}
-Get started:
+#### *Get started:*
 
 {:style="float: left; margin-right: 20px;"}
 <a class="github-button" href="https://github.com/OfflineIMAP/imapfw"
@@ -33,7 +33,6 @@ data-count-api="/repos/OfflineIMAP/imapfw#stargazers_count"
 data-count-aria-label="# stargazers on GitHub" aria-label="Star
 OfflineIMAP/imapfw on GitHub">Star</a>
 
-{:style="float: left; margin-right: 20px;"}
 <a class="github-button" href="https://github.com/OfflineIMAP/imapfw/fork"
 data-icon="octicon-repo-forked" data-style="mega"
 data-count-href="/OfflineIMAP/imapfw/network"
@@ -43,7 +42,7 @@ forks on GitHub" aria-label="Fork OfflineIMAP/imapfw on GitHub">Fork</a>
 <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
 
 {% highlight bash %}
-$ git clone https://github.com/OfflineIMAP/imapfw.git
+git clone https://github.com/OfflineIMAP/imapfw.git
 {% endhighlight %}
 
 [![Gitter](https://badges.gitter.im/OfflineIMAP/imapfw.svg)](https://gitter.im/OfflineIMAP/imapfw?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
