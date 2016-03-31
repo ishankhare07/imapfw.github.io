@@ -15,12 +15,12 @@ This blog will guide through the basics of `how to squash` and also highlight **
 ## Setting up the playground
 For the purpose of this tutorial we will be working with a simple gist. Keep in mind *gists are full-blown git repositories*, but they **DO NOT** support folders.
 
-1. Go ahead and clone the following:  
+* Go ahead and clone the following:  
     ``` shell
     git clone git@gist.github.com:10ef9336a6b9c7572ada9ec6229fe9b7.git
     ```
 
-2. See what's in the repo:
+* See what's in the repo:
     ``` shell
     cd 10ef9336a6b9c7572ada9ec6229fe9b7
     git log --graph --oneline
@@ -77,14 +77,14 @@ pick b68977f fix another typo word
 ```
 
 ### The above output can roughly be divided into 2 categories:
-1. The __un-commented__ lines (1-2)
+* The __un-commented__ lines (1-2)
     ``` shell
     pick ac573c6 fixed a typo word
 pick b68977f fix another typo word
     ```
 are exactly the commits we need to squash, so our `HEAD~2` part was correct.
 
-2. The __commented__ lines (ones starting with `#`). This basically is a _short documentation_ of what options can we use here and what they mean.
+* The __commented__ lines (ones starting with `#`). This basically is a _short documentation_ of what options can we use here and what they mean.
 
 For the purpose of `squashing` we can see the line:
 ```
@@ -95,7 +95,7 @@ That's exactly the behavior we need.
 
 ### The Squash
 
-1. We now do the necessary changes, and they should look something like this  
+* We now do the necessary changes, and they should look something like this  
     ``` shell
     pick ac573c6 fixed a typo word
     squash b68977f fix another typo word
@@ -119,7 +119,7 @@ That's exactly the behavior we need.
     # Note that empty commits are commented out
     ```
 
-2. As soon as we write this to the disk and exit, a new window editor will open with the following:  
+* As soon as we write this to the disk and exit, a new window editor will open with the following:  
     ``` shell
     # This is a combination of 2 commits.
     # The first commit's message is:
@@ -150,7 +150,7 @@ That's exactly the behavior we need.
     #
     ```
 
-3. We can see the 2 commits, go ahead and remove 1, edit the other one. There is __NO NEED__ to do any changes with comments, they won't matter. It should finally look something like this:  
+* We can see the 2 commits, go ahead and remove 1, edit the other one. There is __NO NEED__ to do any changes with comments, they won't matter. It should finally look something like this:  
     ``` shell
     # This is a combination of 2 commits.
     # The first commit's message is:
